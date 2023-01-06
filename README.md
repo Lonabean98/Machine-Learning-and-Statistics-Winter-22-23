@@ -37,3 +37,21 @@ This repository contain the notebooks for the exercises in the 3 topics, statist
 
 
 ## References
+[1] https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+[2] https://www.purplemath.com/modules/graphabs.htm
+[3] https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:graphs-of-absolute-value-functions/a/absolute-value-equations-and-graphs-review
+[4] https://keras.io/
+[5] https://valueml.com/anomaly-detection-in-time-series-data-using-keras/
+[6] https://blog.keras.io/building-autoencoders-in-keras.html
+[7] https://valueml.com/anomaly-detection-in-time-series-data-using-keras/
+[8] https://keras.io/api/layers/regularization_layers/dropout/
+[9] https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv1DTranspose
+[10] https://keras.io/api/layers/core_layers/input/
+[11] https://keras.io/api/layers/
+[12] https://keras.io/api/models/sequential/
+[13] https://keras.io/api/optimizers/adam/
+[14] https://en.wikipedia.org/wiki/Mean_squared_error
+[15] https://en.wikipedia.org/wiki/Mean_absolute_error
+[16] https://towardsdatascience.com/anomaly-detection-using-autoencoders-5b032178a1ea
+[17] https://www.activestate.com/resources/quick-reads/how-to-use-a-model-to-do-predictions-with-keras/
+
