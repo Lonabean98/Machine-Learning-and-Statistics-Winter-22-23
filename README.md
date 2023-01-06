@@ -3,7 +3,7 @@
 
 by Lonan Keane
 
-These notebooks contain the exercises for the topics statistics, models, and parameters. 
+This repository contains a folder containing the exercises for the topics statistics, models, and parameters as well as the Keras project
 
 ## Setup
 
@@ -33,7 +33,7 @@ You can open a notebook by clicking on its name in the dashboard
 
 ## What to expect
 
-These notebook contain the notebooks for the exercises in the 3 topics, statistics, models and parameters.
+This repository contain the notebooks for the exercises in the 3 topics, statistics, models and parameters.
 
 
 ## References
